@@ -1,6 +1,6 @@
 city_name = input("What is your city name? ")
 while city_name == "":
-    city_name = input("What is your city name? Please enter something!") 
+    city_name = input("What is your city name? Please enter something! ") 
 pets_name = input("what is your pets name? ")
 if pets_name == "None":
     user_name = input("What is your name? ")
